@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Drishyaa! 
-
-![Header Image](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=AI%20&%20ML%20Enthusiast&fontSize=70&animation=fadeIn)
+# 👋 Hi, I'm Drishya! 
 
 ### 🚀 About Me
 - 🎓 **First-Year CS Student** specializing in **Artificial Intelligence & Machine Learning**.
